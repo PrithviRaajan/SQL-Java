@@ -1,4 +1,5 @@
 # SQL-Java
+Connect a local SQL database to your Java Program
 Step 1:
 Download Oracle JDBC Driver and companion Jars
 Go ahead to the given link and download the respective file that supports both the Oracle database and the java version on your computer.
